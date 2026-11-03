@@ -1,0 +1,64 @@
+{
+ "slides": [
+  {
+   "k": "build in public",
+   "h": "I'm going to scan *100 apps* built with AI coding tools.",
+   "s": "Method first. Results on 11 Nov."
+  },
+  {
+   "k": "why",
+   "h": "Why I'm doing this",
+   "ph": "[FARIS TO FILL: the moment you noticed AI-built sites loading slowly. One real example, no names.]"
+  },
+  {
+   "k": "what I measure \u00b7 1",
+   "h": "Largest Contentful Paint, on *mobile.*",
+   "s": "Tool: Google PageSpeed Insights. Google's 'good' bar is under 2.5 s."
+  },
+  {
+   "k": "what I measure \u00b7 2",
+   "h": "Layout shift (CLS).",
+   "s": "How much the page jumps while it loads. Google's 'good' bar is under 0.1."
+  },
+  {
+   "k": "the sample",
+   "h": "Public launch posts that say *built with Claude Code or Cursor.*",
+   "ph": "[FARIS TO FILL: exact sources and the date window.]"
+  },
+  {
+   "k": "rules",
+   "h": "No names without permission.",
+   "s": "And no cherry-picking: the full URL list gets published with the results."
+  },
+  {
+   "k": "the bias I can't remove",
+   "h": "Launch posts come from people proud enough to post.",
+   "s": "That's survivor bias. I'll say so next to every number."
+  },
+  {
+   "k": "how each scan runs",
+   "h": "Same tool. Mobile. Same day. *Median* of several runs.",
+   "ph": "[FARIS TO FILL: confirm the number of runs per URL.]"
+  },
+  {
+   "k": "my guess",
+   "h": "What I expect to find",
+   "ph": "[FARIS TO FILL: your honest prediction, so you can be wrong in public.]"
+  },
+  {
+   "k": "why I care",
+   "h": "What I'm building",
+   "ph": "[FARIS TO FILL: one line on what you're building and why. No pitch, no price.]"
+  },
+  {
+   "k": "what you'll get",
+   "h": "The raw table. The method. The *most common causes*, and the code that fixed them."
+  },
+  {
+   "h": "Results on *11 Nov.*",
+   "s": "If the answer is boring, I'll publish that too."
+  }
+ ],
+ "pdf": "scan_100_teaser_linkedin.pdf",
+ "brand": ""
+}

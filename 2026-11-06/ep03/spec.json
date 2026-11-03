@@ -1,0 +1,258 @@
+{
+ "plan": {
+  "01": [
+   {
+    "kind": "dev",
+    "at": 0,
+    "mood": "sad"
+   },
+   {
+    "kind": "phone",
+    "at": 0.5,
+    "phone": {
+     "notif": {
+      "label": "ACCOUNT",
+      "text": "Account deleted"
+     }
+    }
+   }
+  ],
+  "02": [
+   {
+    "kind": "men",
+    "at": 0,
+    "mood": "deadpan"
+   }
+  ],
+  "03": [
+   {
+    "kind": "dev",
+    "at": 0,
+    "mood": "panic",
+    "shake": 24
+   },
+   {
+    "kind": "phone",
+    "at": 0.35,
+    "phone": {
+     "jump": true
+    }
+   }
+  ],
+  "04": [
+   {
+    "kind": "men",
+    "at": 0,
+    "mood": "tag"
+   }
+  ],
+  "05": [
+   {
+    "kind": "dev",
+    "at": 0,
+    "mood": "panic",
+    "shake": 14
+   },
+   {
+    "kind": "phone",
+    "at": 0.55,
+    "phone": {
+     "notif": {
+      "label": "REMINDER",
+      "text": "Rent due: FRIDAY"
+     }
+    }
+   }
+  ],
+  "06": [
+   {
+    "kind": "men",
+    "at": 0
+   },
+   {
+    "kind": "step",
+    "at": 0.4,
+    "card": {
+     "n": 1,
+     "title": "Size every image",
+     "lines": [
+      {
+       "t": "<img src=\"hero.webp\"",
+       "mono": true
+      },
+      {
+       "t": "  width=\"800\" height=\"450\">",
+       "c": "or",
+       "mono": true
+      },
+      {
+       "t": "the browser saves the space",
+       "c": "dim"
+      }
+     ]
+    }
+   }
+  ],
+  "07": [
+   {
+    "kind": "dev",
+    "at": 0,
+    "mood": "deadpan"
+   }
+  ],
+  "08": [
+   {
+    "kind": "men",
+    "at": 0,
+    "mood": "deadpan"
+   },
+   {
+    "kind": "step",
+    "at": 0.4,
+    "card": {
+     "n": 2,
+     "title": "Reserve space",
+     "lines": [
+      {
+       "t": "min-height on banner slots",
+       "c": "or"
+      },
+      {
+       "t": "same for embeds + ads"
+      },
+      {
+       "t": "nothing pushes content down",
+       "c": "dim"
+      }
+     ]
+    }
+   }
+  ],
+  "09": [
+   {
+    "kind": "step",
+    "at": 0,
+    "card": {
+     "n": 3,
+     "title": "Stop font jumps",
+     "lines": [
+      {
+       "t": "@font-face fallback",
+       "mono": true
+      },
+      {
+       "t": "  size-adjust",
+       "c": "or",
+       "mono": true
+      },
+      {
+       "t": "font-display: optional",
+       "mono": true
+      }
+     ]
+    }
+   }
+  ],
+  "10": [
+   {
+    "kind": "dev",
+    "at": 0,
+    "mood": "hype",
+    "shake": 8
+   }
+  ],
+  "11": [
+   {
+    "kind": "men",
+    "at": 0
+   },
+   {
+    "kind": "step",
+    "at": 0.45,
+    "card": {
+     "n": 4,
+     "title": "Insert below, not above",
+     "lines": [
+      {
+       "t": "cookie bar \u2192 overlay",
+       "c": "or"
+      },
+      {
+       "t": "new items \u2192 below the fold"
+      },
+      {
+       "t": "never above the reader",
+       "c": "dim"
+      }
+     ]
+    }
+   }
+  ],
+  "12": [
+   {
+    "kind": "dev",
+    "at": 0,
+    "mood": "hype"
+   }
+  ],
+  "13": [
+   {
+    "kind": "men",
+    "at": 0,
+    "mood": "deadpan"
+   }
+  ],
+  "14": [
+   {
+    "kind": "men",
+    "at": 0
+   },
+   {
+    "kind": "two",
+    "mood": "sad",
+    "at": 0.5
+   }
+  ],
+  "15": [
+   {
+    "kind": "dev",
+    "at": 0,
+    "mood": "panic",
+    "shake": 10
+   }
+  ],
+  "16": [
+   {
+    "kind": "men",
+    "at": 0
+   },
+   {
+    "kind": "end",
+    "at": 0.35
+   }
+  ]
+ },
+ "caps": {
+  "01": "My mum tried my app. She *deleted her account.*",
+  "02": "*Bad app?*",
+  "03": "She tapped *sign up.* The page *jumped.*|She hit *delete!*",
+  "04": "That's *layout shift.*|Stuff moves while the page loads.",
+  "05": "And my landlord is her *best friend.*",
+  "06": "Step one. *Width and height*|on every image.",
+  "07": "The AI *never* did that.",
+  "08": "It never does. Step two.|*Reserve space* for banners and embeds.",
+  "09": "Step three. Match your *fallback font size*|so the text doesn't jump.",
+  "10": "And step *four?*",
+  "11": "Never insert anything *above*|what people are reading.",
+  "12": "So she'll *come back?*",
+  "13": "She's your mum. *She'll come back.*",
+  "14": "*Strangers won't.* This stops the jumping.|It won't make them *like the app.*",
+  "15": "Should I warn the *landlord?*",
+  "16": "Warn nobody. Comment the word *JUMP.*|I'll send the checklist."
+ },
+ "end": {
+  "kw": "JUMP",
+  "sub": "for the 4-step checklist",
+  "ep": "xpensiv \u00b7 EP 3"
+ }
+}

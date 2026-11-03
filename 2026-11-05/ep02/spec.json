@@ -1,0 +1,271 @@
+{
+ "plan": {
+  "01": [
+   {
+    "kind": "dev",
+    "at": 0,
+    "mood": "panic",
+    "shake": 22
+   },
+   {
+    "kind": "phone",
+    "at": 0.45,
+    "phone": {
+     "msgs": [
+      {
+       "time": "11:48 PM",
+       "text": "why is the site so slow??"
+      },
+      {
+       "time": "11:49 PM",
+       "text": "hello??"
+      }
+     ]
+    }
+   }
+  ],
+  "02": [
+   {
+    "kind": "dev",
+    "at": 0,
+    "mood": "sad"
+   },
+   {
+    "kind": "phone",
+    "at": 0.5,
+    "phone": {
+     "notif": {
+      "label": "REMINDER",
+      "text": "Rent due: TOMORROW"
+     },
+     "spinner": true
+    }
+   }
+  ],
+  "03": [
+   {
+    "kind": "men",
+    "at": 0,
+    "mood": "tag"
+   }
+  ],
+  "04": [
+   {
+    "kind": "dev",
+    "at": 0,
+    "mood": "deadpan"
+   }
+  ],
+  "05": [
+   {
+    "kind": "men",
+    "at": 0
+   },
+   {
+    "kind": "step",
+    "at": 0.45,
+    "card": {
+     "n": 1,
+     "title": "Read the warnings",
+     "lines": [
+      {
+       "t": "PageSpeed Insights \u00b7 Mobile",
+       "c": "dim"
+      },
+      {
+       "t": "Scroll to Diagnostics"
+      },
+      {
+       "t": "Fix the top 3 first",
+       "c": "or"
+      }
+     ]
+    }
+   }
+  ],
+  "06": [
+   {
+    "kind": "dev",
+    "at": 0,
+    "mood": "panic",
+    "shake": 10
+   }
+  ],
+  "07": [
+   {
+    "kind": "men",
+    "at": 0,
+    "mood": "deadpan"
+   }
+  ],
+  "08": [
+   {
+    "kind": "dev",
+    "at": 0,
+    "mood": "hype"
+   }
+  ],
+  "09": [
+   {
+    "kind": "step",
+    "at": 0,
+    "card": {
+     "n": 2,
+     "title": "Remove unused plugins",
+     "lines": [
+      {
+       "t": "slider.js",
+       "c": "red",
+       "mono": true,
+       "strike": true
+      },
+      {
+       "t": "confetti.js",
+       "c": "red",
+       "mono": true,
+       "strike": true
+      },
+      {
+       "t": "analytics.js \u2192 defer",
+       "c": "or",
+       "mono": true
+      }
+     ]
+    }
+   }
+  ],
+  "10": [
+   {
+    "kind": "men",
+    "at": 0
+   },
+   {
+    "kind": "step",
+    "at": 0.5,
+    "card": {
+     "n": 3,
+     "title": "Trim your fonts",
+     "lines": [
+      {
+       "t": "2 weights, not 6",
+       "c": "or"
+      },
+      {
+       "t": "font-display: swap",
+       "mono": true
+      },
+      {
+       "t": "self-host the files"
+      }
+     ]
+    }
+   }
+  ],
+  "11": [
+   {
+    "kind": "dev",
+    "at": 0,
+    "mood": "hype",
+    "shake": 8
+   }
+  ],
+  "12": [
+   {
+    "kind": "men",
+    "at": 0,
+    "mood": "deadpan"
+   }
+  ],
+  "13": [
+   {
+    "kind": "step",
+    "at": 0,
+    "card": {
+     "n": 4,
+     "title": "Cache static files",
+     "lines": [
+      {
+       "t": "Cache-Control:",
+       "mono": true
+      },
+      {
+       "t": "  immutable",
+       "c": "or",
+       "mono": true
+      },
+      {
+       "t": "on hashed images + JS"
+      },
+      {
+       "t": "download once, reuse",
+       "c": "dim"
+      }
+     ]
+    }
+   }
+  ],
+  "14": [
+   {
+    "kind": "dev",
+    "at": 0,
+    "mood": "hype",
+    "shake": 10
+   }
+  ],
+  "15": [
+   {
+    "kind": "men",
+    "at": 0
+   },
+   {
+    "kind": "two",
+    "mood": "sad",
+    "at": 0.5
+   }
+  ],
+  "16": [
+   {
+    "kind": "dev",
+    "at": 0,
+    "mood": "deadpan"
+   }
+  ],
+  "17": [
+   {
+    "kind": "men",
+    "at": 0,
+    "mood": "deadpan"
+   }
+  ],
+  "18": [
+   {
+    "kind": "end"
+   }
+  ]
+ },
+ "caps": {
+  "01": "My client just texted. *Why is the site so slow?*",
+  "02": "If she doesn't pay, I don't make *rent.*",
+  "03": "Did you build it, or did *the AI?*",
+  "04": "We... *collaborated.*",
+  "05": "Run *PageSpeed* on her homepage.|Read the *warnings*, not just the score.",
+  "06": "It says *reduce unused JavaScript.*",
+  "07": "How many *plugins* did you install?",
+  "08": "Whatever the *AI asked for.*",
+  "09": "Remove every plugin you *can't explain.*",
+  "10": "And you load *six font weights.* Use *two.*",
+  "11": "But the thin one is *so pretty!*",
+  "12": "Nobody sees it. *It hasn't loaded yet.*",
+  "13": "Then *cache* your images and scripts,|so visitors download them *once.*",
+  "14": "So she pays me *tonight?*",
+  "15": "Be *honest* with her.|Half the slowness was plugins you *never needed.*",
+  "16": "Can I *blame the AI?*",
+  "17": "You can try. It didn't send her an *invoice.*",
+  "18": "Comment the word *FAST*. I'll send you the checklist."
+ },
+ "end": {
+  "kw": "FAST",
+  "sub": "for the 4-step checklist",
+  "ep": "xpensiv \u00b7 EP 2"
+ }
+}

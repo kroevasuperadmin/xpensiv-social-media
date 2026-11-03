@@ -1,0 +1,88 @@
+1
+00:00:00,000 --> 00:00:02,420
+My client just texted, why is the site so slow?
+
+2
+00:00:02,840 --> 00:00:04,420
+If she doesn't pay, I don't make rent.
+
+3
+00:00:04,880 --> 00:00:06,200
+Did you build it or did the AI?
+
+4
+00:00:06,720 --> 00:00:07,580
+We collaborated.
+
+5
+00:00:08,160 --> 00:00:09,360
+Run page speed on her homepage.
+
+6
+00:00:09,800 --> 00:00:11,240
+Read the warnings, not just the score.
+
+7
+00:00:11,660 --> 00:00:13,320
+It says reduce unused JavaScript.
+
+8
+00:00:13,760 --> 00:00:14,980
+How many plugins did you install?
+
+9
+00:00:15,420 --> 00:00:16,480
+Whatever the AI asked for.
+
+10
+00:00:16,760 --> 00:00:18,400
+Remove every plugin you can't explain.
+
+11
+00:00:18,780 --> 00:00:20,240
+And you load six font weights.
+
+12
+00:00:20,540 --> 00:00:21,060
+Use two.
+
+13
+00:00:21,420 --> 00:00:22,580
+But the thin one is so pretty.
+
+14
+00:00:22,960 --> 00:00:23,740
+Nobody sees it.
+
+15
+00:00:23,980 --> 00:00:24,860
+It hasn't loaded yet.
+
+16
+00:00:25,300 --> 00:00:26,640
+Then cache your images and scripts.
+
+17
+00:00:27,000 --> 00:00:28,100
+So visitors download them once.
+
+18
+00:00:28,440 --> 00:00:29,200
+So she pays me tonight?
+
+19
+00:00:29,200 --> 00:00:32,480
+Be honest with her. Half the slowness was plugins you never needed.
+
+20
+00:00:32,800 --> 00:00:33,440
+Can I blame the AI?
+
+21
+00:00:33,840 --> 00:00:35,580
+You can try. It didn't send her an invoice.
+
+22
+00:00:36,080 --> 00:00:38,200
+Comment the word fast. I'll send you the checklist.
+

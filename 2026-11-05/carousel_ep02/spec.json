@@ -1,0 +1,66 @@
+{
+ "slides": [
+  {
+   "frame": [
+    "/workspace/gtm/posts/2026-11-05/ep02/ep02_fast_9x16.mp4",
+    0.82
+   ],
+   "k": "ep 2",
+   "h": "my client just texted: *why is the site so slow?*"
+  },
+  {
+   "frame": [
+    "/workspace/gtm/posts/2026-11-05/ep02/ep02_fast_9x16.mp4",
+    4.11
+   ],
+   "h": "if she doesn't pay, *I don't make rent.*"
+  },
+  {
+   "frame": [
+    "/workspace/gtm/posts/2026-11-05/ep02/ep02_fast_9x16.mp4",
+    7.39
+   ],
+   "h": "did I build it? we... *collaborated.*",
+   "s": "me and the AI."
+  },
+  {
+   "frame": [
+    "/workspace/gtm/posts/2026-11-05/ep02/ep02_fast_9x16.mp4",
+    10.68
+   ],
+   "h": "read the *warnings*, not just the score."
+  },
+  {
+   "frame": [
+    "/workspace/gtm/posts/2026-11-05/ep02/ep02_fast_9x16.mp4",
+    18.89
+   ],
+   "h": "remove every plugin you *can't explain.*"
+  },
+  {
+   "k": "step 3/4",
+   "h": "six font weights loaded. *use two.*",
+   "s": "the thin one is pretty. nobody sees it. it hasn't loaded yet."
+  },
+  {
+   "frame": [
+    "/workspace/gtm/posts/2026-11-05/ep02/ep02_fast_9x16.mp4",
+    27.11
+   ],
+   "h": "cache images + scripts so visitors download them *once.*"
+  },
+  {
+   "frame": [
+    "/workspace/gtm/posts/2026-11-05/ep02/ep02_fast_9x16.mp4",
+    32.04
+   ],
+   "k": "honest bit",
+   "h": "half the slowness was plugins I *never needed.*"
+  },
+  {
+   "h": "comment",
+   "kw": "FAST",
+   "s": "and i'll send you the 4-step checklist."
+  }
+ ]
+}

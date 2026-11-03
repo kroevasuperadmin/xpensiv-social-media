@@ -1,0 +1,100 @@
+1
+00:00:00,000 --> 00:00:00,880
+My mom tried my app.
+
+2
+00:00:00,920 --> 00:00:01,600
+She deleted her account.
+
+3
+00:00:01,960 --> 00:00:02,280
+That up?
+
+4
+00:00:02,620 --> 00:00:03,360
+She tapped sign up.
+
+5
+00:00:03,560 --> 00:00:04,040
+The page jumped.
+
+6
+00:00:04,300 --> 00:00:04,820
+She hit delete.
+
+7
+00:00:05,220 --> 00:00:05,920
+That's layout shift.
+
+8
+00:00:06,360 --> 00:00:07,720
+Stuff moves while the page loads.
+
+9
+00:00:08,160 --> 00:00:09,380
+And my landlord is her best friend.
+
+10
+00:00:09,860 --> 00:00:12,220
+Step one, put a width and height on every image.
+
+11
+00:00:12,560 --> 00:00:13,440
+The AI never did that.
+
+12
+00:00:13,820 --> 00:00:14,420
+It never does.
+
+13
+00:00:14,820 --> 00:00:17,720
+Step two, reserve space for banners and embeds.
+
+14
+00:00:17,860 --> 00:00:21,380
+Step three, match your fallback font size so the text doesn't jump.
+
+15
+00:00:21,700 --> 00:00:24,520
+And step four, never insert anything above what people are reading.
+
+16
+00:00:24,920 --> 00:00:25,740
+So she'll come back?
+
+17
+00:00:26,100 --> 00:00:26,600
+She's your mom.
+
+18
+00:00:26,880 --> 00:00:27,380
+She'll come back.
+
+19
+00:00:27,840 --> 00:00:28,440
+Strangers won't.
+
+20
+00:00:28,440 --> 00:00:29,740
+This stops the jumping.
+
+21
+00:00:30,180 --> 00:00:31,260
+It won't make them like the app.
+
+22
+00:00:31,480 --> 00:00:32,520
+Should I warn the landlord?
+
+23
+00:00:32,960 --> 00:00:33,500
+Warn nobody.
+
+24
+00:00:33,860 --> 00:00:34,620
+Comment the word jump.
+
+25
+00:00:34,840 --> 00:00:35,520
+I'll send the checklist.
+

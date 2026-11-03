@@ -1,0 +1,62 @@
+{
+ "slides": [
+  {
+   "k": "founder notes",
+   "h": "4 checks I run before I tell anyone their site is *fine.*"
+  },
+  {
+   "k": "where this came from",
+   "h": "Why I have a list at all",
+   "ph": "[FARIS TO FILL: how this checklist came about. Real story only.]"
+  },
+  {
+   "k": "check 1",
+   "h": "PageSpeed Insights, *mobile*, LCP.",
+   "s": "Google's 'good' bar is under 2.5 s. Desktop scores flatter you."
+  },
+  {
+   "k": "check 1 \u00b7 what I usually see",
+   "h": "What usually shows up",
+   "ph": "[FARIS TO FILL: what you typically find here.]"
+  },
+  {
+   "k": "check 2",
+   "h": "The biggest image *above the fold.*",
+   "s": "Is it sized for a phone? WebP or AVIF? Width and height set?"
+  },
+  {
+   "k": "check 3",
+   "h": "Reload on slow 4G. *What moves?*",
+   "s": "Anything that jumps is layout shift. Google's 'good' CLS bar is under 0.1."
+  },
+  {
+   "k": "check 4",
+   "h": "Count the *third-party scripts.*",
+   "s": "Chat, analytics, pixels, widgets. Each one needs a reason."
+  },
+  {
+   "k": "the worst one",
+   "h": "The worst I've seen",
+   "ph": "[FARIS TO FILL: the worst case you've personally seen. No names.]"
+  },
+  {
+   "k": "time",
+   "h": "How long this takes",
+   "ph": "[FARIS TO FILL: how long the four checks take you.]"
+  },
+  {
+   "k": "limits",
+   "h": "What this doesn't catch.",
+   "s": "Slow servers, slow databases, slow APIs, bad UX. This is the front-end pass, not an audit."
+  },
+  {
+   "k": "the point",
+   "h": "Do it before launch, *not after the complaints.*"
+  },
+  {
+   "h": "Speed is the one part of a launch you can *check tonight.*"
+  }
+ ],
+ "pdf": "four_checks_linkedin.pdf",
+ "brand": ""
+}

@@ -1,0 +1,80 @@
+{
+ "slides": [
+  {
+   "frame": [
+    "/workspace/gtm/posts/skit-01/v2/skit01_speed_ep1_9x16_v2.mp4",
+    0.84
+   ],
+   "k": "ep 1",
+   "h": "rent is due tomorrow. my app is *still loading.*"
+  },
+  {
+   "frame": [
+    "/workspace/gtm/posts/skit-01/v2/skit01_speed_ep1_9x16_v2.mp4",
+    2.2
+   ],
+   "h": "every visitor leaves *before it opens.*"
+  },
+  {
+   "frame": [
+    "/workspace/gtm/posts/skit-01/v2/skit01_speed_ep1_9x16_v2.mp4",
+    3.92
+   ],
+   "h": "the AI built it in a weekend.",
+   "s": "it *loads* like it took one, too."
+  },
+  {
+   "frame": [
+    "/workspace/gtm/posts/skit-01/v2/skit01_speed_ep1_9x16_v2.mp4",
+    11.46
+   ],
+   "h": "open *PageSpeed Insights.* look at LCP.",
+   "s": "google calls under 2.5 s good."
+  },
+  {
+   "frame": [
+    "/workspace/gtm/posts/skit-01/v2/skit01_speed_ep1_9x16_v2.mp4",
+    13.79
+   ],
+   "h": "mine was *red.* all of it."
+  },
+  {
+   "frame": [
+    "/workspace/gtm/posts/skit-01/v2/skit01_speed_ep1_9x16_v2.mp4",
+    19.61
+   ],
+   "h": "my hero image was the size of a *billboard.*",
+   "s": "resize it. WebP. set width + height."
+  },
+  {
+   "frame": [
+    "/workspace/gtm/posts/skit-01/v2/skit01_speed_ep1_9x16_v2.mp4",
+    22.42
+   ],
+   "h": "lazy-load images *further down.*",
+   "s": "never the hero."
+  },
+  {
+   "frame": [
+    "/workspace/gtm/posts/skit-01/v2/skit01_speed_ep1_9x16_v2.mp4",
+    29.0
+   ],
+   "h": "three chat widgets. *zero users.*",
+   "s": "delete what you don't use. defer the rest."
+  },
+  {
+   "frame": [
+    "/workspace/gtm/posts/skit-01/v2/skit01_speed_ep1_9x16_v2.mp4",
+    34.6
+   ],
+   "k": "honest bit",
+   "h": "this won't fix a *bad idea.*",
+   "s": "it stops a good one losing people to a spinner."
+  },
+  {
+   "h": "comment",
+   "kw": "SPEED",
+   "s": "and i'll send you the 4-step checklist."
+  }
+ ]
+}
