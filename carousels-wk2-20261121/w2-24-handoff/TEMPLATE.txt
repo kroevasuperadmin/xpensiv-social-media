@@ -1,0 +1,4 @@
+Page and device: [where]
+Visible detail: [what I can point to]
+Expected result: [what I want instead]
+Evidence: [screenshot or recording]

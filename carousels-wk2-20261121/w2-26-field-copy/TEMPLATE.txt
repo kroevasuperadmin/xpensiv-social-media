@@ -1,0 +1,4 @@
+Field: [what the person enters]
+Why we need it: [verified reason]
+Format: [accepted input]
+Error: [what happened and next action]

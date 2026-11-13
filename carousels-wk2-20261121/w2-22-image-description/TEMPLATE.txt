@@ -1,0 +1,4 @@
+Picture: [what is visible]
+Purpose here: [what the reader needs]
+Keep: [detail needed for that purpose]
+Leave out: [decoration that adds nothing]
